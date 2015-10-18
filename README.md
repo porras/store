@@ -1,4 +1,4 @@
-# Store
+# Store [![Build Status](https://travis-ci.org/porras/store.svg)](https://travis-ci.org/porras/store)
 
 Store is a file based storage library for Crystal. It's heavily inspired by [Ruby's
 PStore](http://www.rubydoc.info/stdlib/pstore/PStore), although the API is different enough not to keep that P in the

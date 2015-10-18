@@ -1,4 +1,4 @@
-require "../store"
+require "./store"
 require "json"
 
 class JSON::Store(T) < Store::Base(T)
